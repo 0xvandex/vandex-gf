@@ -23,7 +23,7 @@ go install github.com/0xvandex/vandex-gf@latest
 # 🚀 Usage
 **First, ensure your patterns are located in ~/.gf.**
 
-## 1.
+## 1.Help
 ```
 vandex-gf -h
 ```
